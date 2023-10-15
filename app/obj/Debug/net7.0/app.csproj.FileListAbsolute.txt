@@ -1,0 +1,15 @@
+/Users/laure1/Desktop/app/bin/Debug/net7.0/app
+/Users/laure1/Desktop/app/bin/Debug/net7.0/app.deps.json
+/Users/laure1/Desktop/app/bin/Debug/net7.0/app.runtimeconfig.json
+/Users/laure1/Desktop/app/bin/Debug/net7.0/app.dll
+/Users/laure1/Desktop/app/bin/Debug/net7.0/app.pdb
+/Users/laure1/Desktop/app/obj/Debug/net7.0/app.csproj.AssemblyReference.cache
+/Users/laure1/Desktop/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laure1/Desktop/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/Users/laure1/Desktop/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/Users/laure1/Desktop/app/obj/Debug/net7.0/app.csproj.CoreCompileInputs.cache
+/Users/laure1/Desktop/app/obj/Debug/net7.0/app.dll
+/Users/laure1/Desktop/app/obj/Debug/net7.0/refint/app.dll
+/Users/laure1/Desktop/app/obj/Debug/net7.0/app.pdb
+/Users/laure1/Desktop/app/obj/Debug/net7.0/app.genruntimeconfig.cache
+/Users/laure1/Desktop/app/obj/Debug/net7.0/ref/app.dll
